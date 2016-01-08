@@ -9,4 +9,5 @@ Do the following using this repository:
 6.  Push back to GitHub
 
 >I like nonesense; it wakes up the brain cells. Dr. Seuss
+(link)[http://www.brainyquote.com/quotes/authors/d/dr_seuss.html]
 
