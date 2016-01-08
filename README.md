@@ -7,3 +7,6 @@ Do the following using this repository:
 4.  Provide a link to more information about the quote online
 5.  Add and commit changes
 6.  Push back to GitHub
+
+>I like nonesense; it wakes up the brain cells. Dr. Seuss
+
